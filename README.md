@@ -105,10 +105,5 @@ BB Bakery is a local bakery specializing in custom-designed cakes for birthdays,
 - Established folder structure
 
 ## References
-Anderson, T. (2019) 'The theory and practice of online learning', Athabasca University Press, 2nd edn.
-
-Bates, A.W. (2015) 'Teaching in a digital age: Guidelines for designing teaching and learning', BCcampus OpenEd.
-
-UNESCO (2020) 'Education for sustainable development: A roadmap', UNESCO Publishing, Paris.
-
+https://www.godaddy.com/en-ph/domains/gtld-domain-names?isc=sem3year&countryview=1&currencyType=ZAR&cdtl=c_698256468.g_1242449489547440.k_kwd-77653476887313:loc-168.a_.d_c.ctv_o&bnb=nb&msclkid=8f5d2f700ef11d75075947df5b3a911e&utm_source=bing&utm_medium=cpc&utm_campaign=en-za_dom-regtld_sem_ni_nb_x_aware-consider_x_pros_intl_all-stag_001&utm_term=domain%20extensions&utm_content=%5Bdom-gtld%5D
 
